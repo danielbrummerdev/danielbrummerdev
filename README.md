@@ -6,7 +6,7 @@ Desenvolvedor full-stack e designer de produto. Joinville, SC.
 - Front-end e full-stack no Pareto OS, plataforma de gestão de campanhas de Meta Ads (2026)
 - Desenvolvo com agentes de IA (Claude Code, MCP), sempre com especificação, revisão e testes
 
-Quase todo o meu código está em repositórios privados de produtos em produção. O gráfico mostra o ritmo. O portfólio mostra o resultado.
+Quase todo o meu código está em repositórios privados de produtos em produção.
 
 **Stack:** React · TypeScript · Node.js · PostgreSQL · Tailwind · Electron · Go · Vitest · Playwright
 
